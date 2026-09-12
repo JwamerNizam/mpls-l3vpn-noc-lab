@@ -1,4 +1,4 @@
-# AI-NOC Lab: ISP MPLS L3VPN with Zabbix Monitoring
+# ISP MPLS L3VPN with Zabbix Monitoring
 
 A production-style ISP core network simulation built in GNS3, featuring a full MPLS Layer 3 VPN, FortiGate-secured customer edges, and a centralized NOC monitoring stack (Zabbix, Syslog, SNMP). Built as a side project to learn and practice ISP-grade networking, monitoring, and security tools.
 
